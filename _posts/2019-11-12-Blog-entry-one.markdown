@@ -16,15 +16,15 @@ comments: true
 
 ##2.正文
 
-1.选择模板。可以去 http://jekyllthemes.org/ 找自己喜欢的博客模板。随便挑一个模板，可以点击Demo查看展示效果，也可以点击Homepage进入该项目的仓库。如图所示右上角位置，![ ](/assets/img/fork.png  "fork")直接点击fork，在已登录github账号的情况下会直接fork到自己的新仓库。这个过程可能会花费几秒到几十秒。在成功之后，可以看到一行菜单，点击Setting.![](/assets/img/setting.png) 
+1.选择模板。可以去 http://jekyllthemes.org/ 找自己喜欢的博客模板。随便挑一个模板，可以点击Demo查看展示效果，也可以点击Homepage进入该项目的仓库。如图所示右上角位置，![ ](/assets/img/blog19-11-12/fork.png  "fork")直接点击fork，在已登录github账号的情况下会直接fork到自己的新仓库。这个过程可能会花费几秒到几十秒。在成功之后，可以看到一行菜单，点击Setting.![](/assets/img/blog19-11-12/setting.png) 
 2.在如图所示的仓库重命名，注意，命名规则为“自己的github账号.github.io” 。
-![](/assets/img/repository.png) 
+![](/assets/img/blog19-11-12/repository.png) 
 
 在修改了仓库名之后，往下拉找到 GitHub Pages 部分，就可以在这里看到自己的博客地址了。例如我的lihaozhu.github.io这就是自己博客的访问地址。
 注意，一个github账号只能配置一个github Page,如果之前有配置过请删除以前那个仓库再配置现在的。至此个人博客已经成功，不过您还没有任何自己写的东西。
 
 3.接下来可以在该仓库里进行一些配置修改。
-![](/assets/img/lalala.png) 
+![](/assets/img/lblog19-11-12/alala.png) 
 点击文件就可以进入该文件界面，然后进行操作，如修改等。修改在右上角点笔形图，完成后记得在下方提交。博客文章也可以在此处_posts文件夹下示例博文里修改内容，然后提交，成为自己的文章。
 4.本地更新。每一次都在网页上处理总是不尽如人意，特别是网络不够好的情况下。在本地某个文件夹下，开启终端，将自己在github上的博客仓库克隆下来。在本地修改配置文件，添加素材，如图片、音视频等，用准备工作里面提到的Typora,或者remarkable编辑博文（markdown文件），完成后推送到github托管仓库。
 
