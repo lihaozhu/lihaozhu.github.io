@@ -1,7 +1,7 @@
 ﻿# Site
 title:              Lihao
 bio:                '这是一个风格简单的博客，主要是写一些学习、工作中的心得或者笔记。希望在叙述的过程中，让自己能理清思绪，有所收获。也可作为一个网络笔记本吧，便于日后查看。'
-description:        "这是一个风格简单的博客，主要是写一些学习、工作的新的或者笔记。希望在叙述的过程中，让自己能理清思绪，有所收获。也可作为一个网络笔记本吧，便于日后查看。"
+description:        "这是一个风格简单的博客，主要是写一些学习、工作中的心得或者笔记。希望在叙述的过程中，让自己能理清思绪，有所收获。也可作为一个网络笔记本吧，便于日后查看。"
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo.png'
@@ -40,7 +40,7 @@ disqus_shortname:   taylantatli
 #email:
 twitter:            username
 facebook:           username
-github-url:         github.com/lihaozhu/lihaozhu.github.io
+github-url:         lihaozhu/lihaozhu.github.io
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin:          username
 #xing:              username
